@@ -3,7 +3,7 @@ public with sharing class myclass {
 
 	}
 
-//Added a comment
+//Added a comment again
 	public String getAppVersion() {
 		return '1.0.0';
 	}
